@@ -1,0 +1,1 @@
+C:\Users\ARES\Documents\GitHub\Rust\target\release\rustlings.exe: C:\Users\ARES\Documents\GitHub\Rust\src\exercise.rs C:\Users\ARES\Documents\GitHub\Rust\src\main.rs C:\Users\ARES\Documents\GitHub\Rust\src\project.rs C:\Users\ARES\Documents\GitHub\Rust\src\run.rs C:\Users\ARES\Documents\GitHub\Rust\src\ui.rs C:\Users\ARES\Documents\GitHub\Rust\src\verify.rs
