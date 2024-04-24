@@ -1,0 +1,9 @@
+/home/samuel/Documents/Dev-SysAdmin/git/Rust/target/plugin-nightly-2023-08-25/debug/deps/linux_raw_sys-8cfcfd75c47946cd.rmeta: /home/samuel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.13/src/lib.rs /home/samuel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.13/src/elf.rs /home/samuel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.13/src/x86_64/errno.rs /home/samuel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.13/src/x86_64/general.rs /home/samuel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.13/src/x86_64/ioctl.rs
+
+/home/samuel/Documents/Dev-SysAdmin/git/Rust/target/plugin-nightly-2023-08-25/debug/deps/linux_raw_sys-8cfcfd75c47946cd.d: /home/samuel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.13/src/lib.rs /home/samuel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.13/src/elf.rs /home/samuel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.13/src/x86_64/errno.rs /home/samuel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.13/src/x86_64/general.rs /home/samuel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.13/src/x86_64/ioctl.rs
+
+/home/samuel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.13/src/lib.rs:
+/home/samuel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.13/src/elf.rs:
+/home/samuel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.13/src/x86_64/errno.rs:
+/home/samuel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.13/src/x86_64/general.rs:
+/home/samuel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.13/src/x86_64/ioctl.rs:
