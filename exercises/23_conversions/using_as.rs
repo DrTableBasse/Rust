@@ -10,11 +10,11 @@
 // Execute `rustlings hint using_as` or use the `hint` watch subcommand for a
 // hint.
 
-// I AM NOT DONE
+///J'ai ajouté  `as f64` pour que le résultat de la division soit un f64 vu que la fonction déjà retourne un f64 MAIS qu'en plus on fait une division avec des nombres à virgules.
 
 fn average(values: &[f64]) -> f64 {
     let total = values.iter().sum::<f64>();
-    total / values.len()
+    total / values.len() as f64 
 }
 
 fn main() {

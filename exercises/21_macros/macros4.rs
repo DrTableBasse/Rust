@@ -3,16 +3,16 @@
 // Execute `rustlings hint macros4` or use the `hint` watch subcommand for a
 // hint.
 
-// I AM NOT DONE
+///Il manquait des points virgules à la ligne 12 et 15...
 
 #[rustfmt::skip]
 macro_rules! my_macro {
     () => {
         println!("Check out my macro!");
-    }
+    };
     ($val:expr) => {
         println!("Look at this other macro: {}", $val);
-    }
+    };
 }
 
 fn main() {
